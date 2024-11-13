@@ -1,6 +1,4 @@
 /*
-nouran sakr
-250910320
 
 CS4490Z (thesis): chatgpt to drive npc behaviour
 
